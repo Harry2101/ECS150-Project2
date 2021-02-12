@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "uthread.h": "c",
+        "queue.h": "c"
+    }
+}
